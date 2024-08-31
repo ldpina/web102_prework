@@ -3,24 +3,40 @@
 body {
     font-family: 'Cabin';
     background-color: #758190;
+    text-align: center;
 }
 
 #tentacles {
+    display: inline-flexbox;
     width: 50px;
 }
 
 .header {
     display: flex;
+    justify-content: center;
     background-color: lightblue;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    font-size: 35px;
+}
+
+#description-container{
+    font-size: medium;
 }
 
 .stats-container {
     display: flex;
+    align-items: baseline;
+    
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    /* box-shadow: 0 0 30px lightblue;  This was required for a challenege just making it more appealing*/
+    
 }
 
 .stats-card {
@@ -30,6 +46,9 @@ body {
     margin: 1%;
     width: 100%;
     text-align: center;
+}
+.stats-card:hover{
+    box-shadow: 0 0 30px lightblue;
 }
 
 #num-contributions, #total-raised, #num-games {
@@ -72,4 +91,8 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover{
+    box-shadow: 0 0 30px orange;
 }
