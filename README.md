@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://imgur.com/KJ9cZBl)
+[Video Walkthrough](https://imgur.com/KJ9cZBl)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreentoGif  
