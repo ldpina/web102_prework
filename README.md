@@ -4,7 +4,7 @@ Submitted by: Luis Pina
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **5* hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/KJ9cZBl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/KJ9cZBl.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreentoGif  
