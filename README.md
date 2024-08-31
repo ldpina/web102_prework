@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Imgur](https://imgur.com/i5a38S5)
+[Imgur](https://imgur.com/i5a38S5)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreentoGif  
